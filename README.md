@@ -14,6 +14,7 @@
   
 ![Snake animation](https://github.com/ArthurJardimSouza/ArthurJardimSouza/blob/output/github-contribution-grid-snake.svg)
 
+
 </div>
 
 ---
