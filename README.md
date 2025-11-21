@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Olá! Eu sou o Arthur Jardim Souza</h1>
 
 <p align="center">
@@ -11,9 +10,8 @@
 ## 🐍 Minhas Contribuições no GitHub
 
 <div align="center">
-  
-![Snake animation](https://github.com/ArthurJardimSouza/ArthurJardimSouza/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/ArthurJardimSouza/ArthurJardimSouza/blob/output/dist/snake.svg)
 
 </div>
 
