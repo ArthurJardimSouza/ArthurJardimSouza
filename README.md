@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- Imagem no canto inferior esquerdo -->
+<img src="assets/space_marine.png" width="220" style="position:absolute; bottom:0; left:0; margin:20px;" />
 
-<!--
-**ArthurJardimSouza/ArthurJardimSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Projeto Exemplo — README Estiloso
 
-Here are some ideas to get you started:
+Bem-vindo ao repositório!  
+Este README foi criado para ser moderno, organizado e visualmente mais interessante, incluindo gráficos e uma arte no canto inferior esquerdo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Gráfico Exemplo (Gerado em Markdown)
+
+```mermaid
+pie showData
+    title Distribuição das Tarefas
+    "Backend" : 40
+    "Frontend" : 25
+    "Documentação" : 15
+    "Testes" : 20
