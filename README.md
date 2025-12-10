@@ -4,7 +4,17 @@
 # 👋 Olá! Eu sou **Arthur Jardim**
 
 Bem-vindo ao meu perfil!  
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender mais e criar projetos interessantes.
+Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e criar projetos interessantes.
+
+# 📌 Sobre mim
+
+🎓 Estudante e desenvolvedor de backend
+
+☕ Focado em Java
+
+🧠 Sempre aprendendo algo novo
+
+📦 Curto criar projetos organizados e bem estruturados
 
 ---
 
