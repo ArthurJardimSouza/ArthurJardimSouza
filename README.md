@@ -1,19 +1,22 @@
-<!-- Imagem no canto inferior esquerdo -->
-<img src="assets/space_marine.png" width="220" style="position:absolute; bottom:0; left:0; margin:20px;" />
+<!-- Imagem no canto inferior direito -->
+<img src="assets/spacemarine.png" width="260" style="position:absolute; bottom:0; right:0; margin:20px;" />
 
-# 🚀 Projeto Exemplo — README Estiloso
+# 👋 Olá! Eu sou **Arthur Jardim**
 
-Bem-vindo ao repositório!  
-Este README foi criado para ser moderno, organizado e visualmente mais interessante, incluindo gráficos e uma arte no canto inferior esquerdo.
+Bem-vindo ao meu perfil!  
+Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender mais e criar projetos interessantes.
 
 ---
 
-## 📊 Gráfico Exemplo (Gerado em Markdown)
+## 🚀 Tecnologias que eu mais utilizo
+
+Abaixo está um gráfico mostrando a proporção das linguagens que mais uso:
 
 ```mermaid
 pie showData
-    title Distribuição das Tarefas
-    "Backend" : 40
-    "Frontend" : 25
-    "Documentação" : 15
-    "Testes" : 20
+    title Linguagens mais usadas
+    "Java" : 45
+    "JavaScript" : 25
+    "Python" : 15
+    "SQL" : 10
+    "Outras" : 5
