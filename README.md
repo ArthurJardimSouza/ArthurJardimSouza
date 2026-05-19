@@ -1,5 +1,4 @@
-<!-- Imagem no canto inferior direito -->
-<img src="assets/spacemarine.png" width="260" style="position:absolute; bottom:0; right:0; margin:20px;" />
+
 
 # 👋 Olá! Eu sou **Arthur Jardim**
 
