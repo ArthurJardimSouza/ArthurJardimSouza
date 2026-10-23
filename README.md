@@ -5,15 +5,15 @@
 Bem-vindo ao meu perfil!  
 Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e criar projetos interessantes.
 
-# 📌 Sobre mim
+#  Sobre mim
 
-🎓 Estudante e desenvolvedor de backend
+- Estudante e desenvolvedor de backend
 
-☕ Focado em Java
+- Focado em Java
 
-🧠 Sempre aprendendo algo novo
+- Sempre aprendendo algo novo
 
-📦 Curto criar projetos organizados e bem estruturados
+- Curto criar projetos organizados e bem estruturados
 
 ---
 
