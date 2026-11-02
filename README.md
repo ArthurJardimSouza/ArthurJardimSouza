@@ -1,11 +1,15 @@
+<table width="100%">
+<tr>
+<td>
 
+<br>
 
 # 👋 Olá! Eu sou **Arthur Jardim**
 
 Bem-vindo ao meu perfil!  
 Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e criar projetos interessantes.
 
-#  Sobre mim
+##  Sobre mim
 
 - Estudante e desenvolvedor de backend
 
@@ -15,7 +19,6 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 
 - Curto criar projetos organizados e bem estruturados
 
----
 ## 🎮 Minhas contribuições
 
 <picture>
@@ -24,21 +27,15 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
 ## 🚀 Tecnologias que eu mais utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python" width="500">
 </div>
 
-Abaixo está um gráfico mostrando a proporção das linguagens que mais uso:
+<br>
 
-```mermaid
-pie showData
-    title Linguagens mais usadas
-    "Java" : 45
-    "JavaScript" : 25
-    "Python" : 15
-    "SQL" : 10
-    "Outras" : 5
+</td>
+</tr>
+</table>
