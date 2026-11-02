@@ -29,12 +29,7 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 ## 🚀 Tecnologias que eu mais utilizo
 
 <div align="center">
-  
-  <img src="https://images.icon-icons.com/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Logo do java" width="100">
-   <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="Logo do java" width="100">
-   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="Logo do java" width="100">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="Logo do java" width="100">
-   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logo do java" width="100">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python">
 </div>
 
 Abaixo está um gráfico mostrando a proporção das linguagens que mais uso:
