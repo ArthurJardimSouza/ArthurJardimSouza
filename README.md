@@ -28,6 +28,10 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 
 ## 🚀 Tecnologias que eu mais utilizo
 
+<div>
+  <img src="https://images.icon-icons.com/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Logo do java" width="100">
+</div>
+
 Abaixo está um gráfico mostrando a proporção das linguagens que mais uso:
 
 ```mermaid
