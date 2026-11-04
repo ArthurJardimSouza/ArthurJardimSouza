@@ -2,9 +2,11 @@
 <tr>
 <td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Arthur%20Jardim&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Backend%20Java&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Arthur%20Jardim&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header" />
 
-<h1>👋 Olá! Eu sou <b>Arthur Jardim</b></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Backend+Java+%E2%98%95;Estudante+de+tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
+<h1 >👋 Olá! Eu sou <b>Arthur Jardim</b></h1>
 
 <p>Bem-vindo ao meu perfil!<br>
 Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e criar projetos interessantes.</p>
@@ -37,11 +39,15 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 
 <br>
 
+## 🔥 Sequência de dias 
+
 <div>
 
 <table  width="100%" align="center">
 <tr>
 <td align="center">
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ArthurJardimSouza&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
