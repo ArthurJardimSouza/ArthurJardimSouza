@@ -1,69 +1,94 @@
-<table  width="100%" align="center">
-<tr>
-<td>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Arthur%20Jardim&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Backend+Java+%E2%98%95;Estudante+de+tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-
-<h1 >👋 Olá! Eu sou <b>Arthur Jardim</b></h1>
-
-<p>Bem-vindo ao meu perfil!<br>
-Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e criar projetos interessantes.</p>
-
-<h2>Sobre mim</h2>
-
-<ul>
-  <li>Estudante e desenvolvedor de backend</li>
-  <li>Focado em Java</li>
-  <li>Sempre aprendendo algo novo</li>
-  <li>Curto criar projetos organizados e bem estruturados</li>
-</ul>
-
-
-
-## 🎮 Minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph.svg">
-</picture>
-
-
-## 🚀 Tecnologias que eu mais utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python" width="500">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E40AF,100:38BDF8&height=190&section=header&text=ConnectLab&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="ConnectLab"/>
+
+<h3>Conectando ideias através da tecnologia.</h3>
+
+<p>
+Desenvolvimento colaborativo · Inovação · Tecnologia
+</p>
+
 </div>
 
-<br>
+---
 
-## 🔥 Sequência de dias 
+## Visão geral
+
+O **ConnectLab** é um projeto desenvolvido colaborativamente, com foco na aplicação de conhecimentos tecnológicos, desenvolvimento de soluções e integração entre seus participantes.
+
+O projeto propõe um ambiente de aprendizado prático, no qual os integrantes trabalham em conjunto durante as etapas de planejamento, desenvolvimento e implementação, utilizando ferramentas e práticas de engenharia de software.
+
+## Objetivos
+
+- Aplicar conhecimentos técnicos na construção de uma solução tecnológica.
+- Promover colaboração, comunicação e organização entre os integrantes.
+- Desenvolver habilidades relacionadas ao ciclo de desenvolvimento de software.
+- Utilizar ferramentas de versionamento e gerenciamento de código.
+- Incentivar boas práticas de programação, documentação e manutenção.
+- Consolidar o aprendizado por meio de um projeto prático em equipe.
+
+---
+
+## Equipe
 
 <div>
 
-<table  width="100%" align="center">
-<tr>
-<td align="center">
+| Integrante | Papel | Perfil |
+|:---|:---:|:---:|
+| Arthur Jardim Souza | Developer | [GitHub](https://github.com/ArthurJardimSouza) |
+| Camile Wengrznyek | Scrum Master | [GitHub](https://github.com/camilewng) |
+| Carlos Fabio Andrade | Developer | [GitHub](https://github.com/carlosfabioa) |
+| Heitor Klimkowski | Developer | [GitHub](https://github.com/Heitorgkk) |
+| Igor Alexandre | Developer | [GitHub](https://github.com/igorallalexandre) |
+| Marcus Vinícius Albus Arrué | Developer | [GitHub](https://github.com/MarcusAlbus) |
+| Nicolas Madruga Sousa | Developer | [GitHub](https://github.com/nico-madruga) |
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArthurJardimSouza&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=180&section=footer&text=Obrigado%20por%20passar%20por%20aqui!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
+---
 
-<br>
+## Desenvolvimento
 
-</td>
-</tr>
-</table>
+O desenvolvimento do ConnectLab é conduzido de forma colaborativa, utilizando o GitHub como plataforma para versionamento, organização e integração das contribuições.
 
+A equipe trabalha de maneira conjunta na evolução do projeto, buscando manter uma estrutura organizada, código legível e documentação adequada.
 
+---
+
+## Tecnologias e ferramentas
+
+<div>
+
+<!-- Atualize os ícones conforme as tecnologias adotadas no projeto -->
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas utilizadas"/>
+
+</div>
+
+---
+
+## Estrutura
+
+A organização do repositório acompanha a evolução do projeto, mantendo os arquivos de código, documentação e demais recursos estruturados de acordo com suas responsabilidades.
+
+---
+
+<div>
+
+<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-2563EB?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0B1120&height=120&section=footer" width="100%" alt="ConnectLab Footer"/>
+
+<p>
+<strong>ConnectLab</strong><br>
+Desenvolvido colaborativamente.
+</p>
+
+</div>
