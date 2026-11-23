@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,50:EF4444,100:FACC15&height=200&section=header&text=Arthur%20Jardim&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:93C5FD&height=200&section=header&text=Arthur%20Jardim&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Backend+Java+%E2%98%95;Estudante+de+tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -58,7 +58,7 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,50:EF4444,100:FACC15&height=180&section=footer&text=Obrigado%20por%20passar%20por%20aqui!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:93C5FD&height=180&section=footer&text=Obrigado%20por%20passar%20por%20aqui!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
 
 <br>
 
