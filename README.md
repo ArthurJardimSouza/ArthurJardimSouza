@@ -27,8 +27,8 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 ## 🎮 Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jardim-arthur/jardim-arthur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jardim-arthur/jardim-arthur/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jardim-arthur/jardim-arthur/output/pacman-contribution-graph.svg">
 </picture>
 
